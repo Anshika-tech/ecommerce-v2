@@ -25,7 +25,7 @@ const products = [
     {
         name: 'Nike Shoes',
         img: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
-        price: 100,
+        price: 1000,
         desc: "The iPhone is a line of smartphones designed and marketed by Apple Inc."
     },
     {
