@@ -55,7 +55,7 @@ const products = [
     {
         name: 'Drones',
         img: 'https://images.unsplash.com/photo-1507582020474-9a35b7d455d9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZHJvbmVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
-        price: 250,
+        price: 2500,
         desc: "The iPhone is a line of smartphones designed and marketed by Apple Inc."
     },
     {
